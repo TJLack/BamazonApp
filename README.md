@@ -1,6 +1,5 @@
 # Bamazon 
-
-# Challenge #1: Customer View (Minimum Requirement)
+Customer View 
 
  1. Here's my bamazon database with table of products.
 
