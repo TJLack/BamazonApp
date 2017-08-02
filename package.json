@@ -1,8 +1,8 @@
 {
-  "name": "npmls",
+  "name": "BamazonApp",
   "version": "1.0.0",
   "description": "",
-  "main": "bad.js",
+  "main": "bamazonCustomer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
