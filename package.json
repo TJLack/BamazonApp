@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JSarro84/Bamazon.git"
+    "url": "git+https://github.com/TJLack/BamazonApp.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JSarro84/Bamazon/issues"
+    "url": "https://github.com/TJLack/BamazonApp/issues"
   },
-  "homepage": "https://github.com/JSarro84/Bamazon#readme",
+  "homepage": "https://github.com/TJLack/BamazonApp#readme",
   "dependencies": {
     "mysql": "^2.13.0"
   }
